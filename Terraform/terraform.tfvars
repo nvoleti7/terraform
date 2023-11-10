@@ -1,0 +1,8 @@
+vpc_name             = "Development-VPC"
+cidr_block           = "10.0.0.0/16"
+public_subnet1_cidr  = "10.0.1.0/24"
+private_subnet1_cidr = "10.0.11.0/24"
+public_subnet1_name  = "public-subnet1"
+private_subnet1_name = "private-subnet1"
+public_Routing_Table   = "MainRT_public"
+private_Routing_Table   = "MainRT_private"
